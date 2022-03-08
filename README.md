@@ -37,18 +37,23 @@ first point to form a valid convex polygon.
 ![Screenshot from 2022-03-08 17-26-46](https://user-images.githubusercontent.com/83217673/157218345-59533c7c-eb16-4129-9a30-b0337983a8b3.png)
 
 `Breadth-first search`
+
 ![Screenshot from 2022-03-08 17-27-37](https://user-images.githubusercontent.com/83217673/157218184-f1d57f76-849c-463a-b35e-b446aab5b914.png)
 
 `Uniform-cost search`
+
 ![Screenshot from 2022-03-08 17-27-37](https://user-images.githubusercontent.com/83217673/157218184-f1d57f76-849c-463a-b35e-b446aab5b914.png)
 
 `Iterative deepening search`
+
 ![Screenshot from 2022-03-08 17-29-13](https://user-images.githubusercontent.com/83217673/157218502-3b4e1317-469c-4fe5-8458-96f75185e22e.png)
 
 `Greedy best-firts search`
+
 ![Screenshot from 2022-03-08 20-15-10](https://user-images.githubusercontent.com/83217673/157245238-00b6d1e4-ea58-4bf4-afbd-2fcb6f635b7d.png)
 
 `A Star`
+
 ![Screenshot from 2022-03-08 17-30-56](https://user-images.githubusercontent.com/83217673/157218758-c51b5c40-3002-4881-a8b5-36313ad885ff.png)
 
 
