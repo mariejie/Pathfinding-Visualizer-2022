@@ -34,15 +34,16 @@ first point to form a valid convex polygon.
 8 12 8 17 13 12
 11 1 11 6 14 6 14 1
 ```
+![Screenshot from 2022-03-08 17-26-46](https://user-images.githubusercontent.com/83217673/157218345-59533c7c-eb16-4129-9a30-b0337983a8b3.png)
 
 ## Breadth-first search
-![Screenshot from 2022-03-07 23-52-00](https://user-images.githubusercontent.com/83217673/157216697-6011ebcb-ab82-4704-81cc-a999e6377215.png)
+![Screenshot from 2022-03-08 17-27-37](https://user-images.githubusercontent.com/83217673/157218184-f1d57f76-849c-463a-b35e-b446aab5b914.png)
 
 ## Uniform-cost search
-![Screenshot from 2022-03-07 23-52-00](https://user-images.githubusercontent.com/83217673/157216697-6011ebcb-ab82-4704-81cc-a999e6377215.png)
+![Screenshot from 2022-03-08 17-27-37](https://user-images.githubusercontent.com/83217673/157218184-f1d57f76-849c-463a-b35e-b446aab5b914.png)
 
 ## Iterative deepening search
-![Screenshot from 2022-03-08 00-47-25](https://user-images.githubusercontent.com/83217673/157216749-83cb9529-dfc2-4096-b466-ccca4c6a6148.png)
+![Screenshot from 2022-03-08 17-29-13](https://user-images.githubusercontent.com/83217673/157218502-3b4e1317-469c-4fe5-8458-96f75185e22e.png)
 
 ## Greedy best-firts search
 ![Screenshot from 2022-03-08 08-40-05](https://user-images.githubusercontent.com/83217673/157216924-1dce5eef-6767-4468-8333-02774be9431a.png)
