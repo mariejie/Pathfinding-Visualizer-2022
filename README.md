@@ -26,3 +26,11 @@ first point to form a valid convex polygon.
 - The output:
   - Graphical representation of polygons and path.
   - Cost.
+```
+22 18
+2 2 5 5
+3
+4 4 5 9 8 10 9 5
+8 12 8 17 13 12
+11 1 11 6 14 6 14 1
+```
