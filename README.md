@@ -34,6 +34,9 @@ first point to form a valid convex polygon.
 8 12 8 17 13 12
 11 1 11 6 14 6 14 1
 ```
+
+`Map`
+
 ![Screenshot from 2022-03-08 17-26-46](https://user-images.githubusercontent.com/83217673/157218345-59533c7c-eb16-4129-9a30-b0337983a8b3.png)
 
 `Breadth-first search`
