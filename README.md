@@ -34,3 +34,5 @@ first point to form a valid convex polygon.
 8 12 8 17 13 12
 11 1 11 6 14 6 14 1
 ```
+![Screenshot from 2022-03-07 23-49-33](https://user-images.githubusercontent.com/83217673/157216563-a7edb7ba-fd1c-44aa-87ed-52f016809636.png)
+
