@@ -36,3 +36,15 @@ first point to form a valid convex polygon.
 ```
 ![Screenshot from 2022-03-07 23-49-33](https://user-images.githubusercontent.com/83217673/157216563-a7edb7ba-fd1c-44aa-87ed-52f016809636.png)
 
+## Breadth-first search
+![Screenshot from 2022-03-07 23-52-00](https://user-images.githubusercontent.com/83217673/157216697-6011ebcb-ab82-4704-81cc-a999e6377215.png)
+
+## Uniform-cost search
+![Screenshot from 2022-03-07 23-52-00](https://user-images.githubusercontent.com/83217673/157216697-6011ebcb-ab82-4704-81cc-a999e6377215.png)
+
+## Iterative deepening search
+![Screenshot from 2022-03-08 00-47-25](https://user-images.githubusercontent.com/83217673/157216749-83cb9529-dfc2-4096-b466-ccca4c6a6148.png)
+
+## Greedy best-firts search
+![Screenshot from 2022-03-08 08-40-05](https://user-images.githubusercontent.com/83217673/157216924-1dce5eef-6767-4468-8333-02774be9431a.png)
+
