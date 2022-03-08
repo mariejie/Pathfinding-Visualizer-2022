@@ -2,7 +2,6 @@ from queue import PriorityQueue
 import pygame
 import sys
 
-import row
 
 UNVISITED_COLOR = (122, 161, 210)  # light blue
 VISITED_COLOR = (120, 255, 214)  # light green
