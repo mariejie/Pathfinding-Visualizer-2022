@@ -10,7 +10,7 @@ The student as asked to implement 5 search algorithms:
 component and avoids loops by checking a new node against the
 current path.
 4. **Greedy-best first search** using the Manhattan distance as heuristic.
-5. **Graph-search A** using the Manhattan distance as heuristic.
+5. **Graph-search A Star** using the Manhattan distance as heuristic.
 
 ## Input/output format
 - The format of the input file:
