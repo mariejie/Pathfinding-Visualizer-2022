@@ -48,3 +48,7 @@ first point to form a valid convex polygon.
 ## Greedy best-firts search
 ![Screenshot from 2022-03-08 08-40-05](https://user-images.githubusercontent.com/83217673/157216924-1dce5eef-6767-4468-8333-02774be9431a.png)
 
+## A Star
+![Screenshot from 2022-03-08 17-30-56](https://user-images.githubusercontent.com/83217673/157218758-c51b5c40-3002-4881-a8b5-36313ad885ff.png)
+
+
