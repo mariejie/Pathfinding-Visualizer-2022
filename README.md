@@ -28,7 +28,7 @@ first point to form a valid convex polygon.
   - Cost.
 ```
 22 18
-2 2 5 5
+2 2 19 16
 3
 4 4 5 9 8 10 9 5
 8 12 8 17 13 12
