@@ -152,6 +152,7 @@ def draw():  # draw grid and blocks
             if block.goal:  # if goal
                 block.draw(window, GOAL_COLOR)  # draw block
     draw_grid(window)  # draw grid
+    
     pygame.display.flip()  # update window
 
 
