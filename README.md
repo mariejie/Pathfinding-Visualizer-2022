@@ -51,7 +51,7 @@ first point to form a valid convex polygon.
 
 <img width="350" src="https://user-images.githubusercontent.com/83217673/157218502-3b4e1317-469c-4fe5-8458-96f75185e22e.png">
 
-## Greedy best-firsr search
+## Greedy best-first search
 
 <img width="350" src="https://user-images.githubusercontent.com/83217673/157245238-00b6d1e4-ea58-4bf4-afbd-2fcb6f635b7d.png">
 
