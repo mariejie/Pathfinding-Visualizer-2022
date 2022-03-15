@@ -25,6 +25,7 @@ clockwise. The last point will be implicitly concatenated to the
 first point to form a valid convex polygon.
 - The output:
   - Graphical representation of polygons and path.
+      - Required: pygame
   - Cost.
 ```
 22 18
