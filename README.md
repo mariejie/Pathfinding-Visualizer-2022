@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-eaafc8?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=282828">
+</div>
+
 ## Problem description
 The robot has been sent to a maze of size M x N, and the robot has to find
 the path from the Source (starting position) to the Goal (ending position).
